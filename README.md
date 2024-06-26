@@ -13,4 +13,6 @@ Output Layer: 10 nodes with Softmax activation
 - Softmax: Used at the output layer to produce a probability distribution over the 10 classes.
 
 
-Reference video: <a href = "https://youtu.be/w8yWXqWQYmU?si=fpy2NSayBfeK5Afm">Samson Zhang <a>
+Reference video: <a href = "https://youtu.be/w8yWXqWQYmU?si=fpy2NSayBfeK5Afm">Samson Zhang </a>
+
+<a href = "https://www.kaggle.com/c/digit-recognizer/data?select=train.csv">Dataset</a>
